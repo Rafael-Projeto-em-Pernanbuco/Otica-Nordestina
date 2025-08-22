@@ -91,7 +91,7 @@
 
     <div class="content" id="contato">
         <h2>Contato</h2>
-        <p>📍 Rua Principal, Exu - PE</p>
+        <p>📍 Rua Padre Medeiros N°55 Centro, Exu - PE</p>
         <p>📞 5587998205648</p>
         <p>📧 oticanordestina@exemplo.com</p>
     </div>
